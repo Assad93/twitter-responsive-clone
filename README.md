@@ -1,6 +1,6 @@
 # Twitter Clone
 
-<img src="./frontend/public/images/twitter-responsive-clone.png" alt="Tela principal do Twitter Clone">
+<img src="./public/images/twitter-responsive-clone.png" alt="Tela principal do Twitter Clone">
 
 > Twitter Clone é uma cópia da interface do twitter feita de forma responsiva.
 
